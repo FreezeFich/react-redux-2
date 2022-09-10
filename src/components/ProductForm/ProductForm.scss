@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+.form button {
+    text-align: center;
+    width: 170px;
+    height: 40px;
+    background-color: rgb(112, 169, 255);
+    border: 1px solid rgb(112, 169, 255);
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button button {
+    background-color: rgb(112, 169, 255);
+    border: 1px solid rgb(112, 169, 255);
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.ant-btn, .ant-btn-default span{
+    color: rgb(112, 169, 255);
+    font-family: 'Montserrat', sans-serif;
+}
