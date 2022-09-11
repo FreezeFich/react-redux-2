@@ -43,7 +43,7 @@ const ProductList = () => {
   return (
    <div className='list'>
     <ProductForm/>
-    <h1 className='product-list'> Product List</h1>
+    <h1 className='product-list-title'> Product List</h1>
 
      <List
         className='list_item'
