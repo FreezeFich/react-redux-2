@@ -10,25 +10,14 @@
     font-family: 'Montserrat', sans-serif;
 }
 
-.delete{
-    background-color: rgb(255, 112, 112);
-    color: rgb(255, 255, 255);
-    font-family: 'Montserrat', sans-serif;
-    cursor: pointer;
-}
-
-.edit{
-    background-color: rgb(112, 169, 255);
-    color: rgb(255, 255, 255);
-    font-family: 'Montserrat', sans-serif;
-    cursor: pointer;
-}
-
 .ant-list-item{
-    position: relative;
-    left: 520px;
-    width: 35%;
     font-family: 'Montserrat', sans-serif;
+}
+
+.ant-spin-nested-loading{
+    border: 1px solid rgb(184, 184, 184);
+    width: 50%;
+    margin: auto; 
 }
 
 .product-list{

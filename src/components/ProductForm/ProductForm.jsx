@@ -86,7 +86,6 @@ function ProductForm() {
             >
               <Input />
             </Form.Item>
-
             <Form.Item
               label="Price"
               name="price"
